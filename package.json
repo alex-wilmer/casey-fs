@@ -1,0 +1,24 @@
+{
+  "name": "casey-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "cd api && node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-wilmer/casey-fs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-wilmer/casey-fs/issues"
+  },
+  "homepage": "https://github.com/alex-wilmer/casey-fs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
